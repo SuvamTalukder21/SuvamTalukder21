@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SuvamTalukder21
 - 👀 I’m interested in both Coding & Designing
 - 🌱 I’m currently learning Coding in Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me suvamtalukder2002@gmail.com
+- 💞️ I’m looking to collaborate on Designing of web applications
+- 📫 To reach me just send a email at suvamtalukder2002@gmail.com
 
 <!---
 SuvamTalukder21/SuvamTalukder21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
